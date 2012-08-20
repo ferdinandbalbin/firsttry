@@ -9,7 +9,7 @@
 
     if($indicator=="" || $classes==""  )
     {
-       echo "Please input empty field/s!" ;
+       echo "Please input empty field/s! another try " ;
     }
 
     else
