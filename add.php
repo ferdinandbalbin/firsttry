@@ -23,7 +23,7 @@ $admin->_authenticate();
 
     if($sector=="Select Sectors" || $subsector=="Sub-Sector"|| $t_period=="")
     {
-       echo "Please input empty field/s!" ;
+       echo "Please input empty field/s is not empty!" ;
 
     }
 
