@@ -3,7 +3,7 @@ include_once 'admin-class.php';
 $admin = new itg_admin();
 $admin->_authenticate();
 ?>
-<?php  echo "everyone is it ok to do it now";?>
+<?php  echo "everyone is it ok to do it now another modification to this string";?>
 
 <?php
 
