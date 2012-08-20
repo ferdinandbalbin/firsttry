@@ -10,7 +10,7 @@
 
     if($sector=="Select Sectors" || $subsector=="Sub-Sector")
     {
-       echo "Please input empty field/s!" ;
+       echo "Please input empty field/s! hello" ;
     }
 
 
